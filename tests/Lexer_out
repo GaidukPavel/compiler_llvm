@@ -1,0 +1,25 @@
+loop - <while>, Loc=<1,1>
+Identifier - <program>, Loc=<2,1>
+class - <class>, Loc=<3,1>
+Identifier - <void>, Loc=<4,1>
+int_type - <int>, Loc=<5,1>
+char type - <char>, Loc=<6,1>
+Identifier - <_identif>, Loc=<7,1>
+Constant - <3453>, Loc=<8,1>
+Operator <*>, Loc=<9,1>
+Operator <->, Loc=<10,1>
+Operator <+>, Loc=<11,1>
+Operator </>, Loc=<12,1>
+return - <return>, Loc=<13,1>
+Identifier - <break>, Loc=<14,1>
+else - <else>, Loc=<15,1>
+Condition - <if>, Loc=<16,1>
+f_main - <Main>, Loc=<17,1>
+Semi - <;>, Loc=<19,1>
+Logical_operator <==>, Loc=<20,1>
+Operator = - <=>, Loc=<21,1>
+Logical_operator <>=>, Loc=<22,1>
+Logical_operator <<=>, Loc=<23,1>
+Logical_operator <!=>, Loc=<24,1>
+String_literal - <"str_literal">, Loc=<25,1>
+Symbol - <'y'>, Loc=<26,1>
